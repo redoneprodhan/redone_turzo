@@ -8,6 +8,6 @@
 
 
 <p align="center">
-<a href="https://redoneturzo.github.io/redone_turzo.github.io/">
+<a href="https://redoneturzo.github.io/">
   <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github"></a>
 </p>
